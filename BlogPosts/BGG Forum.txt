@@ -1,0 +1,64 @@
+[center][imageid=7536079 large][/center]
+[center][size=18]Learn German through Nonsense[/size][/center]
+
+[size=18]Game Overview[/size]
+Components:
+>190 vocabulary cards
+>>45 Verb
+>>100 Noun
+>>45 Adjective
+>10 Placeholder cards
+>10 card envelopes
+>1-6 sided die
+Quatsch! is a party game where players take turn judging each others nonsensical sentences. It has a basic [url=https://api.quatschgame.com/media/downloads/StarterDeck.pdf]PNP[/url] deck and a [url=https://api.quatschgame.com/media/downloads/RuleBook.pdf]rulebook[/url] on the [url=https://quatschgame.com/]website[/url]
+Also on the website is a taste of how the cards work, providing what the end result of them being read as well as an approximate translation for the sentences.
+[center][imageid=7536149 medium]
+[size=10]Die Stadt folgt Ihm
+The city follows him.[/size]
+[/center]
+
+[center][size=18]How it plays[/size][/center]
+
+The game is very similar to Apples to Apples or Cards Against Humanity. This was selected after 4 or 5 different game designs because it kept the focus on the language instead of distracting the players with additional mechanics. Unlike either of these, there is only 6 possible ways to judge any given sentence, but the sentence are more than random enough to make up for the fewer judgement options.
+
+[center][size=18]Rules[/size][/center]
+
+Each player is given a placeholder card and an envelope to start, then players will shuffle the adjectives in with the nouns and deal 5 from the verb and noun/adjective deck. After that determine who will be the first judge at random.
+
+The First judge will roll the six sided die, and that will indicate how the sentences will be judged. The Six possible judgements are:
+> Confusing
+> Profound
+> Typical German: anything you think a typical German might say.
+> Exciting
+> Graceful
+> Clever
+
+The judge will then play a card that all other players will need to incorporate into their sentences. This is done by placing the placeholder card where they want the judges card to go in the sentence.
+
+[center][imageid=7536160]
+[size=10]melden
+to report[/size]
+[/center]
+
+All other players will then place their built sentences with the top card being the first word in the sentence inside their envelope and pass them to the judge.
+[center][imageid=7536158 medium]
+[size=10]Bear
+der Bär[/size]
+[/center]
+Upon recieving the envelopes, the judge will shuffle the envelopes and pull them out one at a time, read the sentences and decide which is the closest to the die's result. The winner of the result recieves the judges played card. All player submitted cards are discarded.
+[center][imageid=7536159 medium]
+[size=10]Kein
+none[/size]
+[/center]
+The game ends when the last verb card is drawn, and the player with the most won cards is the victor.
+[center]
+[imageid=7536152 medium]
+[size=10]Die Kuh soll die laute Zange der wüste erklären.
+The cow should explain the loud pliers to the desert.[/size]
+[/center]
+[size=18]When is it ready?[/size]
+I have already started some marketing and talking with manufacturers. The game is simple at it's core and the most difficult part, the cardification of the language is already completed. I only need some box art and graphic design done on the manual, and then it should be ready for manufacturing.
+
+I have a [url=https://discord.gg/NccsF8mW2X]discord[/url] where I plan on scheduling TTS games, eventually releasing a mod once everything looks good.
+
+I'll reply to this thread with updates so make sure to subscribe.

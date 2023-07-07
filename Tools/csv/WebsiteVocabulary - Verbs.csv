@@ -1,0 +1,50 @@
+Verb,Meaning,ich,du,es,wir,ihr,sie,target1,target2,T1,T2,isMaster?,Image
+werden,to become,werde,wirst,wird,werden,werdet,werden,None,None,,,TRUE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_01.png
+können,to be able to/can,kann,kannst,kann,können,könnt,können,None,None,,,TRUE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_02.png
+mögen,to like,mag,magst,mag,mögen,mögt,mögen,None,None,,,TRUE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_03.png
+sollen,should/must,soll,sollst,soll,sollen,sollt,sollen,None,None,,,TRUE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_04.png
+dürfen,to be allowed to/may,darf,darfst,darf,dürfen,dürft,dürfen,None,None,,,TRUE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_05.png
+sehen,to see,sehe,siehst,sieht,sehen,seht,sehen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_06.png
+hören,to hear,höre,hörst,hört,hören,hört,hören,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_07.png
+lesen,to read,lese,liest,liest,lesen,lest,lesen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_08.png
+schreiben,to write,schreibe,schreibst,schreibt,schreiben,schreibt,schreiben,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_09.png
+essen,to eat,esse,isst,isst,essen,esst,essen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_10.png
+trinken,to drink,trinke,trinkst,trinkt,trinken,trinkt,trinken,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_11.png
+lieben,to love,liebe,liebst,liebt,lieben,liebt,lieben,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_12.png
+hassen,to hate,hasse,hasst,hasst,hassen,hasst,hassen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_13.png
+suchen,to search,suche,suchst,sucht,suchen,sucht,suchen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_14.png
+finden,to find,finde,findest,findet,finden,findet,finden,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_15.png
+schenken,to give (as a gift),schenke,schenkst,schenkt,schenken,schenkt,schenken,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_16.png
+erzählen,to tell/narrate,erzähle,erzählst,erzählt,erzählen,erzählt,erzählen,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_17.png
+antworten,to answer,antworte,antwortest,antwortet,antworten,antwortet,antworten,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_18.png
+helfen,to help,helfe,hilfst,hilft,helfen,helft,helfen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_19.png
+zeigen,to show,zeige,zeigst,zeigt,zeigen,zeigt,zeigen,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_20.png
+schicken,to send,schicke,schickst,schickt,schicken,schickt,schicken,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_21.png
+geben,to pass/hand,gebe,gibst,gibt,geben,gebt,geben,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_22.png
+gratulieren,to congratulate,gratuliere,gratulierst,gratuliert,gratulieren,gratuliert,gratulieren,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_23.png
+danken,to thank,danke,dankst,dankt,danken,dankt,danken,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_24.png
+vertrauen,to trust,vertraue,vertraust,vertraut,vertrauen,vertraut,vertrauen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_25.png
+glauben,to believe,glaube,glaubst,glaubt,glauben,glaubt,glauben,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_26.png
+gehorchen,to obey,gehorche,gehorchst,gehorcht,gehorchen,gehorcht,gehorchen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_27.png
+hören,to listen ,höre ,hörst ,hört ,hören ,hört ,hören ,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_28.png
+gefallen,to please,gefalle,gefällst,gefällt,gefallen,gefallt,gefallen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_29.png
+fehlen,to miss/lack,fehle,fehlst,fehlt,fehlen,fehlt,fehlen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_30.png
+passen,to fit/suit,passe,passt,passt,passen,passt,passen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_31.png
+wollen,to want,will,willst,will,wollen,wollt,wollen,None,None,,,TRUE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_32.png
+begleiten,to accompany,begleite,begleitest,begleitet,begleiten,begleitet,begleiten,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_33.png
+bestellen,to order,bestelle,bestellst,bestellt,bestellen,bestellt,bestellen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_34.png
+bewerben,to apply (for a job),bewerbe,bewirbst,bewirbt,bewerben,bewerbt,bewerben,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_35.png
+empfehlen,to recommend,empfehle,empfiehlst,empfiehlt,empfehlen,empfehlt,empfehlen,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_36.png
+erklären,to explain,erkläre,erklärst,erklärt,erklären,erklärt,erklären,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_37.png
+folgen,to follow,folge,folgst,folgt,folgen,folgt,folgen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_38.png
+klagen,to complain,klage,klagst,klagt,klagen,klagt,klagen,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_39.png
+loben,to praise,lobe,lobst,lobt,loben,lobt,loben,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_40.png
+melden,to report,melde,meldest,meldet,melden,meldet,melden,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_41.png
+nennen,to name/call,nenne,nennst,nennt,nennen,nennt,nennen,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_42.png
+raten,to advise,rate,rätst,rät,raten,ratet,raten,Dat,None,III,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_43.png
+erledigen,to finish,erledige,erledigst,erledigt,erledigen,erledigt,erledigen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_44.png
+gründen,to found,gründe,gründest,gründet,gründen,gründet,gründen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_45.png
+unterstützen,to support,unterstütze,unterstützt,unterstützt,unterstützen,unterstützt,unterstützen,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_46.png
+versprechen,to promise,verspreche,versprichst,verspricht,versprechen,versprecht,versprechen,Acc,Dat,II,III,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_47.png
+vereinbaren,to agree,vereinbare,vereinbarst,vereinbart,vereinbaren,vereinbart,vereinbaren,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_48.png
+vermitteln,to mediate,vermittele,vermittelst,vermittelt,vermitteln,vermittelt,vermitteln,Acc,None,II,,FALSE,D:\workdrive backup\WorkStuff\Quatsch\individual cards\verbCode_49.png

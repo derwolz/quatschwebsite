@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://QuatschGame.com</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://QuatschGame.com/blog</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://QuatschGame.com/terms</loc>
+        <priority>0.4</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://QuatschGame.com/privacy</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
